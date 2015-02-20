@@ -1,0 +1,12 @@
+c:\users\usuario\documents\visual studio 2010\Projects\calculadora\calculadora\Bin\Debug\ApplicationIcon.png
+c:\users\usuario\documents\visual studio 2010\Projects\calculadora\calculadora\Bin\Debug\Background.png
+c:\users\usuario\documents\visual studio 2010\Projects\calculadora\calculadora\Bin\Debug\calculadora.dll
+c:\users\usuario\documents\visual studio 2010\Projects\calculadora\calculadora\Bin\Debug\calculadora.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\calculadora\calculadora\Bin\Debug\AppManifest.xaml
+c:\users\usuario\documents\visual studio 2010\Projects\calculadora\calculadora\Bin\Debug\calculadora.xap
+c:\users\usuario\documents\visual studio 2010\Projects\calculadora\calculadora\obj\Debug\App.g.i.cs
+c:\users\usuario\documents\visual studio 2010\Projects\calculadora\calculadora\obj\Debug\MainPage.g.i.cs
+c:\users\usuario\documents\visual studio 2010\Projects\calculadora\calculadora\obj\Debug\calculadora.g.resources
+c:\users\usuario\documents\visual studio 2010\Projects\calculadora\calculadora\obj\Debug\calculadora.dll
+c:\users\usuario\documents\visual studio 2010\Projects\calculadora\calculadora\obj\Debug\calculadora.pdb
+c:\users\usuario\documents\visual studio 2010\Projects\calculadora\calculadora\obj\Debug\XapCacheFile.xml
